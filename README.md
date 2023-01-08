@@ -1,6 +1,5 @@
 # Ustacky-supermarket-project
-analyzing sales of three supermarket branch using preprocessing and visualization
-NB: This is a template to make documentation process easy. You can remove the `To-Do` notes in your final commit
+Analyzing sales of three supermarket branch using Data cleaning ,preprocessing and visualization
 
 # Project Title Here
 
@@ -11,7 +10,7 @@ USTACKY SUPERMARKET PROJECT
 
 Data extraction and stitching
 Data exploration
-Data processing
+Data preprocessing
 Data visualization, 
 
 # Insights
